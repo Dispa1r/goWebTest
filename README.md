@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 GitWebTest
 gin is so cool
 =======
